@@ -11,6 +11,6 @@ public class LinkedListDemo {
         demoList.add("d");
         demoList.add("e");
         System.out.println(demoList);
-        demoList.get(0).
+        demoList.get(0);
     }
 }
