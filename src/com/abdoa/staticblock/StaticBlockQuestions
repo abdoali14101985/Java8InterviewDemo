@@ -1,0 +1,17 @@
+1. Explain static blocks in java?
+Static block is block of code written outside the main method
+which gets executed before the main method gets executed.
+
+2. How can we run a java program without making any object? StaticBlock2
+
+3. Difference between static block and static method?
+Static block will be called automatically during run time. But static method will have to be explicitly called for it
+to be executed.
+
+4. How can we create object if we make the constructor private?
+StaticBlock3
+
+5. Is it possible to compile and run java program without main() method?
+
+6. Can we initialize member variable within static block?
+

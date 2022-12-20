@@ -1,0 +1,6 @@
+id  name    qty price
+1   name1   2   1200
+2   name2   4   1500
+3   name3   7   250
+4   name4   9   1300
+            8   6000
